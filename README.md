@@ -1,4 +1,4 @@
-# Arduino GPIO Tester
+# Arduino GPIO Tester (Work-In-Progress)
 
 Electronic proyect for fast test of Arduino analog and digital (GPIO) pins.  
 
