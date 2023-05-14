@@ -7,8 +7,8 @@ Electronic proyect for easy test of Arduino Nano/UNO analog and digital (GPIO) p
 This project use the following electronic components:
 - 1 x Arduino Nano v3.0
 - 2 x Connector pins
-- 22 x LED 5mm
-- 22 x 2k ohm resistors
+- 22 x LED 3mm
+- 22 x 1k ohm resistors
 
 &nbsp;
 
