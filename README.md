@@ -15,21 +15,21 @@ This project use the following electronic components:
 
 | Diagram - Schematics                            | Diagram - PCB                                   |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/01-photo-coming-soon.jpg)         | ![](Resources/02-photo-coming-soon.jpg)         |
+| ![](Resources/01-schematic-diagram.png)         | ![](Resources/02-pcb-diagram.png)               |
 
 | Diagram - PCB Render                            | Diagram - PCB Render                            |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/03-photo-coming-soon.jpg)         | ![](Resources/04-photo-coming-soon.jpg)         |
+| ![](Resources/03-pcb-render-front-side.png)     | ![](Resources/04-pcb-render-back-side.png)      |
 
-| Case - 3D Model                                 | Prototype                                       |
+| Prototype                                       | PCB Manufacturing                               |
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/05-photo-coming-soon.jpg)         | ![](Resources/06-photo-coming-soon.jpg)         |
 
-| PCB Manufacturing                               | PCB Assembly                                    |
+| PCB Assembly                                    | Project Assembly                                |
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/07-photo-coming-soon.jpg)         | ![](Resources/08-photo-coming-soon.jpg)         |
 
-| Project Assembly                                | Project Final (YouTube video)                   |
+| Project Final                                   | Project Final (YouTube video)                   |
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/09-photo-coming-soon.jpg)         | ![](Resources/10-photo-coming-soon.jpg)         |
 
