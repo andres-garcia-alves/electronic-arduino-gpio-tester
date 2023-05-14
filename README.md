@@ -6,8 +6,9 @@ Electronic proyect for fast test of Arduino analog and digital (GPIO) pins.
 
 This project use the following electronic components:
 - 1 x Arduino Nano v3.0
-- 10 x LED 5mm
-- 10 x 2k ohm resistors
+- 2 x Connector pins
+- 22 x LED 5mm
+- 22 x 2k ohm resistors
 
 &nbsp;
 
