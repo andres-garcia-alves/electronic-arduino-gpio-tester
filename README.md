@@ -1,6 +1,6 @@
 # Arduino GPIO Tester (Work-In-Progress)
 
-Electronic proyect for fast test of Arduino analog and digital (GPIO) pins.  
+Electronic proyect for easy test of Arduino Nano/UNO analog and digital (GPIO) pins.  
 
 &nbsp;
 
