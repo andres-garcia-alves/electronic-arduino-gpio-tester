@@ -1,9 +1,10 @@
 /*
-  Electronic Ardunio GPIO Tester v1.0
+  Electronic Ardunio GPIO Tester v1.1
 
   Created by: Andres Garcia Alves <andres.garcia.alves@gmail.com>
   
-  Version 1.0, 2023.05.07 - Initial release.
+  Version 1.0, 2023.05.13 - Initial release.
+  Version 1.1, 2023.05.16 - Bug fixes.
 
   This source code is licensed under GPL v3.0  
 */

@@ -1,4 +1,4 @@
-# Arduino GPIO Tester (Work-In-Progress)
+# Arduino GPIO Tester
 
 Electronic proyect for easy test of Arduino Nano/UNO analog and digital (GPIO) pins.  
 
@@ -41,6 +41,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 ### Version History
 
 v1.0 (2023.05.13) - Initial release.  
+v1.1 (2023.05.16) - Bug fixes.  
 
 &nbsp;
 
