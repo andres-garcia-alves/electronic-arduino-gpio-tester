@@ -9,24 +9,24 @@
 */
 
 int gpio[] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, A0, A1, A2, A3, A4, A5, A6, A7 };
-byte gpioLen = sizeof(gpio)/sizeof(int);
+int gpioLen = sizeof(gpio)/sizeof(int);
 
 void setup() {
 
-  for (int = 0; i < gpioLen; i++) {
-    pinMode(gpioLen[i], OUTPUT);
+  for (int i = 0; i < gpioLen; i++) {
+    pinMode(gpio[i], OUTPUT);
   }
 }
 
 void loop() {
 
-  for (int = 0; i < gpioLen; i++) {
-    digitalWrite(gpioLen[i], HIGH);
+  for (int i = 0; i < gpioLen; i++) {
+    digitalWrite(gpio[i], HIGH);
   }
-  delay(1000);
+  delay(5000);
 
-  for (int = 0; i < gpioLen; i++) {
-    digitalWrite(gpioLen[i], LOW);
+  for (int i = 0; i < gpioLen; i++) {
+    digitalWrite(gpio[i], LOW);
   }
   delay(1000);
 }
