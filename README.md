@@ -22,17 +22,13 @@ This project use the following electronic components:
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/03-pcb-render-front-side.png)     | ![](Resources/04-pcb-render-back-side.png)      |
 
-| Prototype                                       | PCB Manufacturing                               |
+| PCB Manufacturing                               | PCB Assembly                                    |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/05-photo-coming-soon.jpg)         | ![](Resources/06-photo-coming-soon.jpg)         |
+| ![](Resources/05-pcb-manufacturing.jpg)         | ![](Resources/06-pcb-assembly.jpg)              |
 
-| PCB Assembly                                    | Project Assembly                                |
+| PCB Assembly                                    | Project Final                                   |
 |-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/07-photo-coming-soon.jpg)         | ![](Resources/08-photo-coming-soon.jpg)         |
-
-| Project Final                                   | Project Final (YouTube video)                   |
-|-------------------------------------------------|-------------------------------------------------|
-| ![](Resources/09-photo-coming-soon.jpg)         | ![](Resources/10-photo-coming-soon.jpg)         |
+| ![](Resources/07-pcb-assembly.jpg)              | ![](Resources/08-project-final.jpg)             |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
